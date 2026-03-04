@@ -1,0 +1,12 @@
+
+[Interface]
+PrivateKey = GIzXPK7WCwaGFIXTHlngj4k80/xVdO4A/UuVCNLfP1I=
+Address = 10.8.0.15/24
+DNS = 1.1.1.1
+
+[Peer]
+PublicKey = KNDRwh6+kNIrvvUeNhIVePWB+wmD1/TKvEpK3yZjzUg=
+PresharedKey = kotWJb4nHZf+hhIM82qAi6v369vI5bkAsS/P38DIgto=
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 0
+Endpoint = 159.69.155.254:51820
